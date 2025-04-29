@@ -1,6 +1,5 @@
 # Data-Driven Discoveries in Pet Adoption Patterns
 
-[GitHub Repository](https://github.com/cogitoergosum666/ECE580_project_pet_adoption)
 
 ## 📚 Project Overview
 
